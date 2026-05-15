@@ -95,7 +95,7 @@ main{
     background-color: rgb(185, 225, 54);
     grid-area: right-bottom;
     border-radius: 20px;
-    padding: 7px;
+    padding: 10px;
 }
 .center-bottom{
     background-color: rgb(255, 255, 255);
@@ -112,7 +112,12 @@ main{
 
 }
 .right-bottom img{
-    object-fit: cover;
+    height: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 20px;
+    
+
 }
 .circle{
     height: 70%;
