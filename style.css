@@ -119,6 +119,10 @@ main{
     
 
 }
+.imgdiv{
+    height: 96%;
+    width: 100%;
+}
 .circle{
     height: 70%;
     width:55%;
