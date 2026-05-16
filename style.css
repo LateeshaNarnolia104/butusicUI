@@ -123,20 +123,10 @@ main{
     height: 96%;
     width: 100%;
 }
-.circle{
-    height: 70%;
-    width:55%;
-    border-radius: 50%;
-    background-color: rgb(23, 23, 23);
-    justify-content: center;
-    display: flex;
-    align-items: center;
-    border: 2px solid  rgb(195, 255, 0);
-    
-}
-.circle img{
+
+.center-top1 img{
     object-fit: cover;
-    height: 60%;
+    height: 80%;
     width: 60%;
 }
 h1{
